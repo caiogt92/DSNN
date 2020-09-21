@@ -1,6 +1,6 @@
 # DSNN
 
-#### Model created that can predicts / correct image orientation. Images were taken from data cifar10 dataset
+#### Model created that can predict / correct image orientation. Images were taken from data cifar10 dataset
 
 ## Usage
 
