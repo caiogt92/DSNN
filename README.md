@@ -13,9 +13,3 @@ To run the image correction feature, open the **imageCorrect.py** file and chang
 
 ## **General info**
 **keras_cifar10_trained_model.h5** is the model that can be downloaded or created by running the **model.py** file
-
-**testImagesCorrected** is the zip file containing the corrected images for the test set in .png format
-
-**test.preds.csv** is the prediction for the test set, same format as the ground truth
-
-**result.npy** is the numpy array file as requested
