@@ -1,5 +1,7 @@
 # DSNN
 
+#### Model created that can predicts / correct image orientation. Images were taken from data cifar10 dataset
+
 ## Usage
 
 ### **1. Creating the model** (optional)
@@ -17,11 +19,3 @@ To run the image correction feature, open the **imageCorrect.py** file and chang
 **test.preds.csv** is the prediction for the test set, same format as the ground truth
 
 **result.npy** is the numpy array file as requested
-
-
-### Solution
-Using the cifar10 model, a different approach was needed as the original model was used for classifying objects by image recognition. Once I've swapped the dataset for the new objective, I have created the labels for each class and tested on different epochs to find a suitable result.
-After the model was created, I loaded the model and the test images and generated the result files
-
-### Next Steps
-Probably would be to find out which kind of images got the lowest accuracy (if it is a scenario, specific objects, persons, etc...) and try to increase the training dataset or if it is not possible, to use another model in sequence for these specific cases.
