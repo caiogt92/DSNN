@@ -1,6 +1,6 @@
 # NN
 
-#### Model created that can predict / correct image orientation. Images were taken from data cifar10 dataset
+#### Model created that can predict / correct image orientation. Images were taken from cifar10 dataset
 
 ## Usage
 
