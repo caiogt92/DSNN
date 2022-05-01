@@ -1,0 +1,14 @@
+{
+  "login": "teste",
+  "userdata":
+  {
+  "account": 1234,
+  "name": "Teste1234"
+  },
+  "attributes": 
+  {
+    "health": 273,
+    "maxhealth": 273,
+    "attackspeed": 1
+  }
+}
