@@ -10,5 +10,10 @@
     "health": 273,
     "maxhealth": 273,
     "attackspeed": 1
-  }
+    },
+  "inventory_items":
+  [
+    {"id": 4, "amount": 5, "index": 0},
+    {"id": 8, "amount": 1, "index": 1}
+  ]
 }
